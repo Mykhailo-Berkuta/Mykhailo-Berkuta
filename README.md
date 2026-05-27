@@ -1,5 +1,1 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/373d0288-b55b-4053-b5cd-54daa5d20b83" width="300" alt="Cat soldier">
-</p>
-
-
+<img width="1744" height="604" alt="IMG_6311" src="https://github.com/user-attachments/assets/98c1ea1b-a4d2-4c51-b56f-489778132392" />
